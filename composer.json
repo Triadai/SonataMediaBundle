@@ -26,7 +26,7 @@
         "knplabs/gaufrette": "^0.1.6",
         "imagine/imagine": "^0.3",
         "kriswallsmith/buzz": "^0.6",
-        "jms/serializer-bundle": "^0.11 || ^1.0",
+        "jms/serializer-bundle": "~0.11 || ^1.0",
         "sonata-project/intl-bundle": "^2.2"
     },
     "require-dev": {
